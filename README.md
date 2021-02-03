@@ -18,9 +18,9 @@ Google-dorking
 
 Example:
 
-python [file.py] -s [search]
+python google-dork.py -s [search]
 
-python [file.py] -s [search] -m [max]
+python google-dork.py -s [search] -m [max]
 
 	-s		Search
 	
